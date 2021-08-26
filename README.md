@@ -25,6 +25,6 @@ Nesse projeto o desafio era reconstruir a página inicial de login do Instagram,
 ```
 Abaixo o modelo web e mobile responsivo :
 
-<a href="https://wttlins.github.io/Instagram-Home-Page/" target="_blank"><img width="550" height="400" src="https://cdn.discordapp.com/attachments/873941486478188604/880390342149550150/modeloweb.png">
+<a href="https://wttlins.github.io/Instagram-Home-Page/" target="_blank"><img width="650" height="400" src="https://cdn.discordapp.com/attachments/873941486478188604/880390342149550150/modeloweb.png">
 </a><a href="https://wttlins.github.io/Instagram-Home-Page/" target="_blank"><img width="250" height="400" src="https://cdn.discordapp.com/attachments/873941486478188604/880390334398464001/modelomobile.png">
 </a>
