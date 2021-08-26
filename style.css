@@ -6,13 +6,13 @@
     box-sizing: border-box;
     text-decoration: none;
     font-family: sans-serif;
-    font-size: 14px;
+    font-size: 13px;
 }
 
 body {
     width: 100%;
     min-height: 100vh; /* largura mínima */
-    background-color: rgb(244, 255, 255);
+    background-color: rgb(252, 252, 252);
     margin: 0;
     padding: 0;
     display: flex;
@@ -22,7 +22,7 @@ body {
 .instagram-wrapper {
     display: flex; /* alinha os elementos na horizontal */
     align-items: center; /* alinha os elementos na vertical e centraliza (eixo y) */
-    justify-content: start; /* o start seria o "começar daqui" esquerda para a direita */
+    justify-content: center; /* o start seria o "começar daqui" esquerda para a direita */
     width: 60%; /* altura / tamanho */
     height: 100vh;
 }
@@ -105,7 +105,7 @@ body {
     flex-direction: column;
     align-items: center; /* alinha horizontalmente no centro */
     justify-content: center;
-    width: 100%;
+    width: 120%;
     padding: 1.3rem 0; /* em cima e em baixo fica 1.3rem */
 }
 
@@ -133,18 +133,19 @@ body {
 
 /* media queries */
 
-@media (max-width:1024px) { /* quando chegar a 1024 pixels ele fará.... */
+@media (max-width:1024) { /* quando chegar a 1024 pixels ele fará.... */
     .instagram-wrapper {
-        width: 90%;
+        width: 100%;
+        display: auto;
     }
 } 
 
-@media (max-width: 650px) {
+@media (max-width: 708px) {
     body {
         background-color: white;
     }
     .instagram-wrapper {
-        width: 90%;
+        width: 80%;
     }
 
     .instagram-phone { /* irá retirar a imagem do celular para deixar só o login !!! */
