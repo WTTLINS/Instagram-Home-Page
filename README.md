@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-    ## Clone Homepage Instagram !
-
-
-=======
 **Clone Homepage Instagram !** 📢
 ---
 
@@ -25,4 +20,3 @@ Nesse projeto o desafio era reconstruir a página inicial de login do Instagram,
     }
 } 
 ```
->>>>>>> ea3d8db9c539e3f0ecb41046857729bb0e9c9db9
